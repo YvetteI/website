@@ -7,7 +7,7 @@ body{
     }
     body.about{
         margin: 0;
-        background: url(file:///Users/admin/Downloads/dynamic-gradient-grainy-texture/colors2.jpg);
+        background: url(colors2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
